@@ -26,7 +26,7 @@
 -- THE SOFTWARE.
 --
 --
--- Export transactions as CSV file with extended information of the source.
+-- Export transactions as CSV file with reduced information of the source, e.g. for vat tax calculations.
 --
 
 Exporter{version  = 0.01,
