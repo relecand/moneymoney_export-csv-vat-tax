@@ -56,3 +56,5 @@ end
 function WriteTail (account)
     -- Nothing todo
 end
+
+-- SIGNATURE: MC0CFGlSyPYMTouuK/MH9559RiCrXuoaAhUAh8SzDZLXUxGNMh1U2iBstP+N+r8=
